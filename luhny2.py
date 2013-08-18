@@ -1,4 +1,9 @@
-# STATUS: TEST 14 OF 22 FAILED
+# STATUS: PASS
+# TIMES: 389ms
+#        454ms
+#        383ms
+#        373ms
+#        370ms
 
 import sys 
 
@@ -51,8 +56,11 @@ def log(string):
                 if are_numbers( string[j:j+4] ):                # if the first four are numbers
                     if not (string[j+4] in DIGITS):                   # if the fifth is not
                         log_errors.write('is_luhny might be called from delimited sequence\n')
-                        if is_luhny( string[j:j+4] + string[j+5:j+9] + string[j+10:j+14] + string[j+15:] ):
-                            num_log[j] = i
+                        card_num = string[j:j+4] + string[j+5:j+9] + string[j+10:j+14] + string[j+15:j+i]
+                        if not card_num[-1] in DIGITS:
+                            card_num = card_num[:-1]
+                        if is_luhny( card_num ):
+                            num_log[j] = i-3
             j += 1
     return num_log
 
@@ -67,18 +75,18 @@ def mask(string):
             string = string[:start_index] + 'X'*num_log[start_index] + string[start_index+num_log[start_index]:]
     return string
 
-
 def run():
-    for line in sys.stdin:
-        log_errors.write('Input:\t'+line+'\n')
-        log_errors.write('Output:\t'+mask(line))
-        print mask(line),
+    line = raw_input()
+    while len(line) > 0:
+#        log_errors.write('Input:\t'+line+'\n')
+#        log_errors.write('Output:\t'+mask(line))
+        print mask(line)
+        try:
+            line = raw_input()
+        except EOFError:
+            return
     log_errors.write('\n')
     log_errors.close()
-    print mask(raw_input())
 
-def test():
-    string = raw_input()
-    print mask(string)
-
-test()
+run()
+#print log(raw_input())
