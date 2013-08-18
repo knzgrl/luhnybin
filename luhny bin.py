@@ -1,3 +1,6 @@
+# STATUS: TEST 1 OF 22 FAILED
+# ABANDONED: SEE LUHNY2.PY
+
 import sys
 
 def sum(int_list):

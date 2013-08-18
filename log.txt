@@ -1,0 +1,2745 @@
+-: 45
+checking LF oly -
+-: 45
+checking LF oly -
+-: 45
+checking LF oly -
+-: 45
+checking LF oly -
+-: 45
+checking LF oly -
+-: 45
+checking LF oly -
+-: 45
+checking LF oly -
+-: 45
+checking LF oly -
+-: 45
+Input:	LF only ->
+
+Output:	LF only ->
+Input:	<- LF only
+
+Output:	<- LF only
+Input:	56613959932537
+
+is_luhny might be called from non-delimited sequencechecking 56613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+Output:	XXXXXXXXXXXXXX
+is_luhny might be called from non-delimited sequencechecking 56613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+Input:	508733740140655
+
+is_luhny might be called from non-delimited sequencechecking 50873374014065
+5: 53
+0: 48
+1: 49
+4: 52
+3: 51
+7: 55
+0: 48
+is_luhny might be called from non-delimited sequencechecking 08733740140655
+5: 53
+6: 54
+4: 52
+0: 48
+7: 55
+3: 51
+8: 56
+is_luhny might be called from non-delimited sequencechecking 508733740140655
+5: 53
+6: 54
+4: 52
+0: 48
+7: 55
+3: 51
+8: 56
+5: 53
+Output:	XXXXXXXXXXXXXXX
+is_luhny might be called from non-delimited sequencechecking 50873374014065
+5: 53
+0: 48
+1: 49
+4: 52
+3: 51
+7: 55
+0: 48
+is_luhny might be called from non-delimited sequencechecking 08733740140655
+5: 53
+6: 54
+4: 52
+0: 48
+7: 55
+3: 51
+8: 56
+is_luhny might be called from non-delimited sequencechecking 508733740140655
+5: 53
+6: 54
+4: 52
+0: 48
+7: 55
+3: 51
+8: 56
+5: 53
+Input:	6853371389452376
+
+is_luhny might be called from non-delimited sequencechecking 68533713894523
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+8: 56
+is_luhny might be called from non-delimited sequencechecking 85337138945237
+7: 55
+2: 50
+4: 52
+8: 56
+1: 49
+3: 51
+5: 53
+is_luhny might be called from non-delimited sequencechecking 53371389452376
+6: 54
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+is_luhny might be called from non-delimited sequencechecking 685337138945237
+7: 55
+2: 50
+4: 52
+8: 56
+1: 49
+3: 51
+5: 53
+6: 54
+is_luhny might be called from non-delimited sequencechecking 853371389452376
+6: 54
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+8: 56
+is_luhny might be called from non-delimited sequencechecking 6853371389452376
+6: 54
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+8: 56
+Output:	XXXXXXXXXXXXXXXX
+is_luhny might be called from non-delimited sequencechecking 68533713894523
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+8: 56
+is_luhny might be called from non-delimited sequencechecking 85337138945237
+7: 55
+2: 50
+4: 52
+8: 56
+1: 49
+3: 51
+5: 53
+is_luhny might be called from non-delimited sequencechecking 53371389452376
+6: 54
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+is_luhny might be called from non-delimited sequencechecking 685337138945237
+7: 55
+2: 50
+4: 52
+8: 56
+1: 49
+3: 51
+5: 53
+6: 54
+is_luhny might be called from non-delimited sequencechecking 853371389452376
+6: 54
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+8: 56
+is_luhny might be called from non-delimited sequencechecking 6853371389452376
+6: 54
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+8: 56
+Input:	49536290423965
+
+is_luhny might be called from non-delimited sequencechecking 49536290423965
+5: 53
+9: 57
+2: 50
+0: 48
+2: 50
+3: 51
+9: 57
+Output:	49536290423965
+is_luhny might be called from non-delimited sequencechecking 49536290423965
+5: 53
+9: 57
+2: 50
+0: 48
+2: 50
+3: 51
+9: 57
+Input:	306903975081421
+
+is_luhny might be called from non-delimited sequencechecking 30690397508142
+2: 50
+1: 49
+0: 48
+7: 55
+3: 51
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequencechecking 06903975081421
+1: 49
+4: 52
+8: 56
+5: 53
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequencechecking 306903975081421
+1: 49
+4: 52
+8: 56
+5: 53
+9: 57
+0: 48
+6: 54
+3: 51
+Output:	306903975081421
+is_luhny might be called from non-delimited sequencechecking 30690397508142
+2: 50
+1: 49
+0: 48
+7: 55
+3: 51
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequencechecking 06903975081421
+1: 49
+4: 52
+8: 56
+5: 53
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequencechecking 306903975081421
+1: 49
+4: 52
+8: 56
+5: 53
+9: 57
+0: 48
+6: 54
+3: 51
+Input:	6045055735309820
+
+is_luhny might be called from non-delimited sequencechecking 60450557353098
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+0: 48
+is_luhny might be called from non-delimited sequencechecking 04505573530982
+2: 50
+9: 57
+3: 51
+3: 51
+5: 53
+0: 48
+4: 52
+is_luhny might be called from non-delimited sequencechecking 45055735309820
+0: 48
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+is_luhny might be called from non-delimited sequencechecking 604505573530982
+2: 50
+9: 57
+3: 51
+3: 51
+5: 53
+0: 48
+4: 52
+6: 54
+is_luhny might be called from non-delimited sequencechecking 045055735309820
+0: 48
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+0: 48
+is_luhny might be called from non-delimited sequencechecking 6045055735309820
+0: 48
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+0: 48
+Output:	6045055735309820
+is_luhny might be called from non-delimited sequencechecking 60450557353098
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+0: 48
+is_luhny might be called from non-delimited sequencechecking 04505573530982
+2: 50
+9: 57
+3: 51
+3: 51
+5: 53
+0: 48
+4: 52
+is_luhny might be called from non-delimited sequencechecking 45055735309820
+0: 48
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+is_luhny might be called from non-delimited sequencechecking 604505573530982
+2: 50
+9: 57
+3: 51
+3: 51
+5: 53
+0: 48
+4: 52
+6: 54
+is_luhny might be called from non-delimited sequencechecking 045055735309820
+0: 48
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+0: 48
+is_luhny might be called from non-delimited sequencechecking 6045055735309820
+0: 48
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+0: 48
+Input:	5872120460121
+
+Output:	5872120460121
+Input:	99929316122852072
+
+is_luhny might be called from non-delimited sequencechecking 99929316122852
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+9: 57
+is_luhny might be called from non-delimited sequencechecking 99293161228520
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+is_luhny might be called from non-delimited sequencechecking 92931612285207
+7: 55
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+is_luhny might be called from non-delimited sequencechecking 29316122852072
+2: 50
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+is_luhny might be called from non-delimited sequencechecking 999293161228520
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+9: 57
+is_luhny might be called from non-delimited sequencechecking 992931612285207
+7: 55
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+9: 57
+is_luhny might be called from non-delimited sequencechecking 929316122852072
+2: 50
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+is_luhny might be called from non-delimited sequencechecking 9992931612285207
+7: 55
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+9: 57
+is_luhny might be called from non-delimited sequencechecking 9929316122852072
+2: 50
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+Output:	99929316122852072
+is_luhny might be called from non-delimited sequencechecking 99929316122852
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+9: 57
+is_luhny might be called from non-delimited sequencechecking 99293161228520
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+is_luhny might be called from non-delimited sequencechecking 92931612285207
+7: 55
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+is_luhny might be called from non-delimited sequencechecking 29316122852072
+2: 50
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+is_luhny might be called from non-delimited sequencechecking 999293161228520
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+9: 57
+is_luhny might be called from non-delimited sequencechecking 992931612285207
+7: 55
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+9: 57
+is_luhny might be called from non-delimited sequencechecking 929316122852072
+2: 50
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+is_luhny might be called from non-delimited sequencechecking 9992931612285207
+7: 55
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+9: 57
+is_luhny might be called from non-delimited sequencechecking 9929316122852072
+2: 50
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+Input:	0003813474535310
+
+is_luhny might be called from non-delimited sequencechecking 00038134745353
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+0: 48
+is_luhny might be called from non-delimited sequencechecking 00381347453531
+1: 49
+5: 53
+5: 53
+7: 55
+3: 51
+8: 56
+0: 48
+is_luhny might be called from non-delimited sequencechecking 03813474535310
+0: 48
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+is_luhny might be called from non-delimited sequencechecking 000381347453531
+1: 49
+5: 53
+5: 53
+7: 55
+3: 51
+8: 56
+0: 48
+0: 48
+is_luhny might be called from non-delimited sequencechecking 003813474535310
+0: 48
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+0: 48
+is_luhny might be called from non-delimited sequencechecking 0003813474535310
+0: 48
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+0: 48
+Output:	XXXXXXXXXXXXXXXX
+is_luhny might be called from non-delimited sequencechecking 00038134745353
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+0: 48
+is_luhny might be called from non-delimited sequencechecking 00381347453531
+1: 49
+5: 53
+5: 53
+7: 55
+3: 51
+8: 56
+0: 48
+is_luhny might be called from non-delimited sequencechecking 03813474535310
+0: 48
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+is_luhny might be called from non-delimited sequencechecking 000381347453531
+1: 49
+5: 53
+5: 53
+7: 55
+3: 51
+8: 56
+0: 48
+0: 48
+is_luhny might be called from non-delimited sequencechecking 003813474535310
+0: 48
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+0: 48
+is_luhny might be called from non-delimited sequencechecking 0003813474535310
+0: 48
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+0: 48
+Input:	1256613959932537
+
+is_luhny might be called from non-delimited sequencechecking 12566139599325
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+2: 50
+is_luhny might be called from non-delimited sequencechecking 25661395993253
+3: 51
+2: 50
+9: 57
+5: 53
+3: 51
+6: 54
+5: 53
+is_luhny might be called from non-delimited sequencechecking 56613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+is_luhny might be called from non-delimited sequencechecking 125661395993253
+3: 51
+2: 50
+9: 57
+5: 53
+3: 51
+6: 54
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequencechecking 256613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+2: 50
+is_luhny might be called from non-delimited sequencechecking 1256613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+2: 50
+Output:	12XXXXXXXXXXXXXX
+is_luhny might be called from non-delimited sequencechecking 12566139599325
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+2: 50
+is_luhny might be called from non-delimited sequencechecking 25661395993253
+3: 51
+2: 50
+9: 57
+5: 53
+3: 51
+6: 54
+5: 53
+is_luhny might be called from non-delimited sequencechecking 56613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+is_luhny might be called from non-delimited sequencechecking 125661395993253
+3: 51
+2: 50
+9: 57
+5: 53
+3: 51
+6: 54
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequencechecking 256613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+2: 50
+is_luhny might be called from non-delimited sequencechecking 1256613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+2: 50
+Input:	0114762758182750
+
+is_luhny might be called from non-delimited sequencechecking 01147627581827
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+1: 49
+is_luhny might be called from non-delimited sequencechecking 11476275818275
+5: 53
+2: 50
+1: 49
+5: 53
+2: 50
+7: 55
+1: 49
+is_luhny might be called from non-delimited sequencechecking 14762758182750
+0: 48
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+is_luhny might be called from non-delimited sequencechecking 011476275818275
+5: 53
+2: 50
+1: 49
+5: 53
+2: 50
+7: 55
+1: 49
+0: 48
+is_luhny might be called from non-delimited sequencechecking 114762758182750
+0: 48
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+1: 49
+is_luhny might be called from non-delimited sequencechecking 0114762758182750
+0: 48
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+1: 49
+Output:	XXXXXXXXXXXXXXXX
+is_luhny might be called from non-delimited sequencechecking 01147627581827
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+1: 49
+is_luhny might be called from non-delimited sequencechecking 11476275818275
+5: 53
+2: 50
+1: 49
+5: 53
+2: 50
+7: 55
+1: 49
+is_luhny might be called from non-delimited sequencechecking 14762758182750
+0: 48
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+is_luhny might be called from non-delimited sequencechecking 011476275818275
+5: 53
+2: 50
+1: 49
+5: 53
+2: 50
+7: 55
+1: 49
+0: 48
+is_luhny might be called from non-delimited sequencechecking 114762758182750
+0: 48
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+1: 49
+is_luhny might be called from non-delimited sequencechecking 0114762758182750
+0: 48
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+1: 49
+Input:	9875610591081018250321
+
+is_luhny might be called from non-delimited sequencechecking 98756105910810
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+8: 56
+is_luhny might be called from non-delimited sequencechecking 87561059108101
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+is_luhny might be called from non-delimited sequencechecking 75610591081018
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequencechecking 56105910810182
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequencechecking 61059108101825
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequencechecking 10591081018250
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequencechecking 05910810182503
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequencechecking 59108101825032
+2: 50
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+is_luhny might be called from non-delimited sequencechecking 91081018250321
+1: 49
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+is_luhny might be called from non-delimited sequencechecking 987561059108101
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+9: 57
+is_luhny might be called from non-delimited sequencechecking 875610591081018
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+8: 56
+is_luhny might be called from non-delimited sequencechecking 756105910810182
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+is_luhny might be called from non-delimited sequencechecking 561059108101825
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequencechecking 610591081018250
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequencechecking 105910810182503
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequencechecking 059108101825032
+2: 50
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequencechecking 591081018250321
+1: 49
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequencechecking 9875610591081018
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+8: 56
+is_luhny might be called from non-delimited sequencechecking 8756105910810182
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+is_luhny might be called from non-delimited sequencechecking 7561059108101825
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequencechecking 5610591081018250
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequencechecking 6105910810182503
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequencechecking 1059108101825032
+2: 50
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequencechecking 0591081018250321
+1: 49
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+Output:	987XXXXXXXXXXXXXXXX321
+is_luhny might be called from non-delimited sequencechecking 98756105910810
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+8: 56
+is_luhny might be called from non-delimited sequencechecking 87561059108101
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+is_luhny might be called from non-delimited sequencechecking 75610591081018
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequencechecking 56105910810182
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequencechecking 61059108101825
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequencechecking 10591081018250
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequencechecking 05910810182503
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequencechecking 59108101825032
+2: 50
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+is_luhny might be called from non-delimited sequencechecking 91081018250321
+1: 49
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+is_luhny might be called from non-delimited sequencechecking 987561059108101
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+9: 57
+is_luhny might be called from non-delimited sequencechecking 875610591081018
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+8: 56
+is_luhny might be called from non-delimited sequencechecking 756105910810182
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+is_luhny might be called from non-delimited sequencechecking 561059108101825
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequencechecking 610591081018250
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequencechecking 105910810182503
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequencechecking 059108101825032
+2: 50
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequencechecking 591081018250321
+1: 49
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequencechecking 9875610591081018
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+8: 56
+is_luhny might be called from non-delimited sequencechecking 8756105910810182
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+is_luhny might be called from non-delimited sequencechecking 7561059108101825
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequencechecking 5610591081018250
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequencechecking 6105910810182503
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequencechecking 1059108101825032
+2: 50
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequencechecking 0591081018250321
+1: 49
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+Input:	4352 7211 4223 5131
+
+is_luhny might be called from delimited sequencechecking 4352721142235131
+
+
+: 10
+Input:	LF only ->
+
+Output:	LF only ->
+Input:	<- LF only
+
+Output:	<- LF only
+Input:	56613959932537
+
+is_luhny might be called from non-delimited sequence
+checking 56613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+Output:	XXXXXXXXXXXXXX
+is_luhny might be called from non-delimited sequence
+checking 56613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+Input:	508733740140655
+
+is_luhny might be called from non-delimited sequence
+checking 50873374014065
+5: 53
+0: 48
+1: 49
+4: 52
+3: 51
+7: 55
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 08733740140655
+5: 53
+6: 54
+4: 52
+0: 48
+7: 55
+3: 51
+8: 56
+is_luhny might be called from non-delimited sequence
+checking 508733740140655
+5: 53
+6: 54
+4: 52
+0: 48
+7: 55
+3: 51
+8: 56
+5: 53
+Output:	XXXXXXXXXXXXXXX
+is_luhny might be called from non-delimited sequence
+checking 50873374014065
+5: 53
+0: 48
+1: 49
+4: 52
+3: 51
+7: 55
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 08733740140655
+5: 53
+6: 54
+4: 52
+0: 48
+7: 55
+3: 51
+8: 56
+is_luhny might be called from non-delimited sequence
+checking 508733740140655
+5: 53
+6: 54
+4: 52
+0: 48
+7: 55
+3: 51
+8: 56
+5: 53
+Input:	6853371389452376
+
+is_luhny might be called from non-delimited sequence
+checking 68533713894523
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+8: 56
+is_luhny might be called from non-delimited sequence
+checking 85337138945237
+7: 55
+2: 50
+4: 52
+8: 56
+1: 49
+3: 51
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 53371389452376
+6: 54
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+is_luhny might be called from non-delimited sequence
+checking 685337138945237
+7: 55
+2: 50
+4: 52
+8: 56
+1: 49
+3: 51
+5: 53
+6: 54
+is_luhny might be called from non-delimited sequence
+checking 853371389452376
+6: 54
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+8: 56
+is_luhny might be called from non-delimited sequence
+checking 6853371389452376
+6: 54
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+8: 56
+Output:	XXXXXXXXXXXXXXXX
+is_luhny might be called from non-delimited sequence
+checking 68533713894523
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+8: 56
+is_luhny might be called from non-delimited sequence
+checking 85337138945237
+7: 55
+2: 50
+4: 52
+8: 56
+1: 49
+3: 51
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 53371389452376
+6: 54
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+is_luhny might be called from non-delimited sequence
+checking 685337138945237
+7: 55
+2: 50
+4: 52
+8: 56
+1: 49
+3: 51
+5: 53
+6: 54
+is_luhny might be called from non-delimited sequence
+checking 853371389452376
+6: 54
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+8: 56
+is_luhny might be called from non-delimited sequence
+checking 6853371389452376
+6: 54
+3: 51
+5: 53
+9: 57
+3: 51
+7: 55
+3: 51
+8: 56
+Input:	49536290423965
+
+is_luhny might be called from non-delimited sequence
+checking 49536290423965
+5: 53
+9: 57
+2: 50
+0: 48
+2: 50
+3: 51
+9: 57
+Output:	49536290423965
+is_luhny might be called from non-delimited sequence
+checking 49536290423965
+5: 53
+9: 57
+2: 50
+0: 48
+2: 50
+3: 51
+9: 57
+Input:	306903975081421
+
+is_luhny might be called from non-delimited sequence
+checking 30690397508142
+2: 50
+1: 49
+0: 48
+7: 55
+3: 51
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 06903975081421
+1: 49
+4: 52
+8: 56
+5: 53
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequence
+checking 306903975081421
+1: 49
+4: 52
+8: 56
+5: 53
+9: 57
+0: 48
+6: 54
+3: 51
+Output:	306903975081421
+is_luhny might be called from non-delimited sequence
+checking 30690397508142
+2: 50
+1: 49
+0: 48
+7: 55
+3: 51
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 06903975081421
+1: 49
+4: 52
+8: 56
+5: 53
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequence
+checking 306903975081421
+1: 49
+4: 52
+8: 56
+5: 53
+9: 57
+0: 48
+6: 54
+3: 51
+Input:	6045055735309820
+
+is_luhny might be called from non-delimited sequence
+checking 60450557353098
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 04505573530982
+2: 50
+9: 57
+3: 51
+3: 51
+5: 53
+0: 48
+4: 52
+is_luhny might be called from non-delimited sequence
+checking 45055735309820
+0: 48
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 604505573530982
+2: 50
+9: 57
+3: 51
+3: 51
+5: 53
+0: 48
+4: 52
+6: 54
+is_luhny might be called from non-delimited sequence
+checking 045055735309820
+0: 48
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 6045055735309820
+0: 48
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+0: 48
+Output:	6045055735309820
+is_luhny might be called from non-delimited sequence
+checking 60450557353098
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 04505573530982
+2: 50
+9: 57
+3: 51
+3: 51
+5: 53
+0: 48
+4: 52
+is_luhny might be called from non-delimited sequence
+checking 45055735309820
+0: 48
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 604505573530982
+2: 50
+9: 57
+3: 51
+3: 51
+5: 53
+0: 48
+4: 52
+6: 54
+is_luhny might be called from non-delimited sequence
+checking 045055735309820
+0: 48
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 6045055735309820
+0: 48
+8: 56
+0: 48
+5: 53
+7: 55
+5: 53
+5: 53
+0: 48
+Input:	5872120460121
+
+Output:	5872120460121
+Input:	99929316122852072
+
+is_luhny might be called from non-delimited sequence
+checking 99929316122852
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 99293161228520
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 92931612285207
+7: 55
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+is_luhny might be called from non-delimited sequence
+checking 29316122852072
+2: 50
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 999293161228520
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 992931612285207
+7: 55
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 929316122852072
+2: 50
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 9992931612285207
+7: 55
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 9929316122852072
+2: 50
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+Output:	99929316122852072
+is_luhny might be called from non-delimited sequence
+checking 99929316122852
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 99293161228520
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 92931612285207
+7: 55
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+is_luhny might be called from non-delimited sequence
+checking 29316122852072
+2: 50
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 999293161228520
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 992931612285207
+7: 55
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 929316122852072
+2: 50
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 9992931612285207
+7: 55
+2: 50
+8: 56
+2: 50
+6: 54
+3: 51
+2: 50
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 9929316122852072
+2: 50
+0: 48
+5: 53
+2: 50
+1: 49
+1: 49
+9: 57
+9: 57
+Input:	0003813474535310
+
+is_luhny might be called from non-delimited sequence
+checking 00038134745353
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 00381347453531
+1: 49
+5: 53
+5: 53
+7: 55
+3: 51
+8: 56
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 03813474535310
+0: 48
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+is_luhny might be called from non-delimited sequence
+checking 000381347453531
+1: 49
+5: 53
+5: 53
+7: 55
+3: 51
+8: 56
+0: 48
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 003813474535310
+0: 48
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 0003813474535310
+0: 48
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+0: 48
+Output:	XXXXXXXXXXXXXXXX
+is_luhny might be called from non-delimited sequence
+checking 00038134745353
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 00381347453531
+1: 49
+5: 53
+5: 53
+7: 55
+3: 51
+8: 56
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 03813474535310
+0: 48
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+is_luhny might be called from non-delimited sequence
+checking 000381347453531
+1: 49
+5: 53
+5: 53
+7: 55
+3: 51
+8: 56
+0: 48
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 003813474535310
+0: 48
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 0003813474535310
+0: 48
+3: 51
+3: 51
+4: 52
+4: 52
+1: 49
+3: 51
+0: 48
+Input:	1256613959932537
+
+is_luhny might be called from non-delimited sequence
+checking 12566139599325
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+2: 50
+is_luhny might be called from non-delimited sequence
+checking 25661395993253
+3: 51
+2: 50
+9: 57
+5: 53
+3: 51
+6: 54
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 56613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+is_luhny might be called from non-delimited sequence
+checking 125661395993253
+3: 51
+2: 50
+9: 57
+5: 53
+3: 51
+6: 54
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 256613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+2: 50
+is_luhny might be called from non-delimited sequence
+checking 1256613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+2: 50
+Output:	12XXXXXXXXXXXXXX
+is_luhny might be called from non-delimited sequence
+checking 12566139599325
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+2: 50
+is_luhny might be called from non-delimited sequence
+checking 25661395993253
+3: 51
+2: 50
+9: 57
+5: 53
+3: 51
+6: 54
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 56613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+is_luhny might be called from non-delimited sequence
+checking 125661395993253
+3: 51
+2: 50
+9: 57
+5: 53
+3: 51
+6: 54
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 256613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+2: 50
+is_luhny might be called from non-delimited sequence
+checking 1256613959932537
+7: 55
+5: 53
+3: 51
+9: 57
+9: 57
+1: 49
+6: 54
+2: 50
+Input:	0114762758182750
+
+is_luhny might be called from non-delimited sequence
+checking 01147627581827
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 11476275818275
+5: 53
+2: 50
+1: 49
+5: 53
+2: 50
+7: 55
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 14762758182750
+0: 48
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+is_luhny might be called from non-delimited sequence
+checking 011476275818275
+5: 53
+2: 50
+1: 49
+5: 53
+2: 50
+7: 55
+1: 49
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 114762758182750
+0: 48
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 0114762758182750
+0: 48
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+1: 49
+Output:	XXXXXXXXXXXXXXXX
+is_luhny might be called from non-delimited sequence
+checking 01147627581827
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 11476275818275
+5: 53
+2: 50
+1: 49
+5: 53
+2: 50
+7: 55
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 14762758182750
+0: 48
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+is_luhny might be called from non-delimited sequence
+checking 011476275818275
+5: 53
+2: 50
+1: 49
+5: 53
+2: 50
+7: 55
+1: 49
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 114762758182750
+0: 48
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 0114762758182750
+0: 48
+7: 55
+8: 56
+8: 56
+7: 55
+6: 54
+4: 52
+1: 49
+Input:	9875610591081018250321
+
+is_luhny might be called from non-delimited sequence
+checking 98756105910810
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+8: 56
+is_luhny might be called from non-delimited sequence
+checking 87561059108101
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+is_luhny might be called from non-delimited sequence
+checking 75610591081018
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 56105910810182
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequence
+checking 61059108101825
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 10591081018250
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 05910810182503
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 59108101825032
+2: 50
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 91081018250321
+1: 49
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 987561059108101
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 875610591081018
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+8: 56
+is_luhny might be called from non-delimited sequence
+checking 756105910810182
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+is_luhny might be called from non-delimited sequence
+checking 561059108101825
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 610591081018250
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequence
+checking 105910810182503
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 059108101825032
+2: 50
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 591081018250321
+1: 49
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 9875610591081018
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+8: 56
+is_luhny might be called from non-delimited sequence
+checking 8756105910810182
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+is_luhny might be called from non-delimited sequence
+checking 7561059108101825
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 5610591081018250
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequence
+checking 6105910810182503
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 1059108101825032
+2: 50
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 0591081018250321
+1: 49
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+Output:	987XXXXXXXXXXXXXXXX321
+is_luhny might be called from non-delimited sequence
+checking 98756105910810
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+8: 56
+is_luhny might be called from non-delimited sequence
+checking 87561059108101
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+is_luhny might be called from non-delimited sequence
+checking 75610591081018
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 56105910810182
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequence
+checking 61059108101825
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 10591081018250
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 05910810182503
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 59108101825032
+2: 50
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 91081018250321
+1: 49
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 987561059108101
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+9: 57
+is_luhny might be called from non-delimited sequence
+checking 875610591081018
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+8: 56
+is_luhny might be called from non-delimited sequence
+checking 756105910810182
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+is_luhny might be called from non-delimited sequence
+checking 561059108101825
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 610591081018250
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequence
+checking 105910810182503
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 059108101825032
+2: 50
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 591081018250321
+1: 49
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 9875610591081018
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+8: 56
+is_luhny might be called from non-delimited sequence
+checking 8756105910810182
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+7: 55
+is_luhny might be called from non-delimited sequence
+checking 7561059108101825
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 5610591081018250
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+6: 54
+is_luhny might be called from non-delimited sequence
+checking 6105910810182503
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+1: 49
+is_luhny might be called from non-delimited sequence
+checking 1059108101825032
+2: 50
+0: 48
+2: 50
+1: 49
+1: 49
+0: 48
+9: 57
+0: 48
+is_luhny might be called from non-delimited sequence
+checking 0591081018250321
+1: 49
+3: 51
+5: 53
+8: 56
+0: 48
+8: 56
+1: 49
+5: 53
+Input:	4352 7211 4223 5131
+
+is_luhny might be called from delimited sequence
+checking 4352721142235131
+
+
+: 10
+is_luhny might be called from non-delimited sequence
+checking 43527211422351
+1: 49
+3: 51
+2: 50
+1: 49
+2: 50
+2: 50
+3: 51
+is_luhny might be called from non-delimited sequence
+checking 35272114223513
+3: 51
+5: 53
+2: 50
+4: 52
+1: 49
+7: 55
+5: 53
+is_luhny might be called from non-delimited sequence
+checking 52721142235131
+1: 49
+1: 49
+3: 51
+2: 50
+1: 49
+2: 50
+2: 50
+is_luhny might be called from non-delimited sequence
+checking 435272114223513
+3: 51
+5: 53
+2: 50
+4: 52
+1: 49
+7: 55
+5: 53
+4: 52
+is_luhny might be called from non-delimited sequence
+checking 352721142235131
+1: 49
+1: 49
+3: 51
+2: 50
+1: 49
+2: 50
+2: 50
+3: 51
+is_luhny might be called from non-delimited sequence
+checking 4352721142235131
+1: 49
+1: 49
+3: 51
+2: 50
+1: 49
+2: 50
+2: 50
+3: 51
+is_luhny might be called from non-delimited sequence
+checking 43527211422351
+is_luhny might be called from non-delimited sequence
+checking 35272114223513
+is_luhny might be called from non-delimited sequence
+checking 52721142235131
+is_luhny might be called from non-delimited sequence
+checking 435272114223513
+is_luhny might be called from non-delimited sequence
+checking 352721142235131
+is_luhny might be called from non-delimited sequence
+checking 4352721142235131
